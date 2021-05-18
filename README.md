@@ -1,10 +1,10 @@
 # citizen science inaturalist repository 
 
-Here is the draft repository for sharing work versions of our notebooks. 
+This repository is for sharing work in notebooks on citizen science project done with CorrelAid, City Interaction lab, UCL, CRI. 
 
 
 # authors 
-
+Frank, Vadim, Kati, Anna, Bastian, Muki, Florenz, Albrecht, Liubov
 
 # meetings 
 
